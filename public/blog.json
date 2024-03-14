@@ -1,0 +1,53 @@
+[
+    {
+      "ID": 12345,
+      "cover_img": "https://ibb.co/PMHBBmb",
+      "title": "The Secret Garden",
+      "author_name": "Emily Johnson",
+      "author_pic": "https://ibb.co/bJwYs4S",
+      "posted_date": "2024-03-10",
+      "reading_time": 2,
+      "hashtag": "#fiction"
+    },
+    {
+      "ID": 67890,
+      "cover_img": "https://ibb.co/bJwYs4S",
+      "title": "Into the Abyss",
+      "author_name": "David Smith",
+      "author_pic": "https://ibb.co/YLR2xCL",
+      "posted_date": "2024-03-12",
+      "reading_time": 1.5 ,
+      "hashtag": "#adventure"
+    },
+    {
+      "ID": 24680,
+      "cover_img": "https://ibb.co/Lt6xfDf",
+      "title": "The Art of Cooking",
+      "author_name": "Sarah Lee",
+      "author_pic": "https://ibb.co/5ngg5R6",
+      "posted_date": "2024-03-14",
+      "reading_time": 1 ,
+      "hashtag": "#cooking"
+    },
+    {
+      "ID": 13579,
+      "cover_img": "https://ibb.co/YLR2xCL",
+      "title": "Dreams of Tomorrow",
+      "author_name": "Michael Brown",
+      "author_pic": "https://ibb.co/bJwYs4S",
+      "posted_date": "2024-03-11",
+      "reading_time": 3 ,
+      "hashtag": "#fantasy"
+    },
+    {
+      "ID": 97531,
+      "cover_img": "https://ibb.co/5ngg5R6",
+      "title": "The Science of Universe",
+      "author_name": "Rachel Green",
+      "author_pic": "https://ibb.co/PMHBBmb",
+      "posted_date": "2024-03-13",
+      "reading_time": 2.5 ,
+      "hashtag": "#sciencefiction"
+    }
+  ]
+  
